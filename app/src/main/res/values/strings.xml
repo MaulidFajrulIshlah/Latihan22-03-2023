@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan 22-03-2023</string>
+    <string name="halo">Halo</string>
+    <string name="umur_kamu">Umur Kamu</string>
+    <string name="tahun_lahir">Tahun Lahir</string>
+    <string name="save">Save</string>
+    <string name="nama">Nama</string>
+</resources>
